@@ -1,0 +1,6 @@
+{
+  "name": "FLOREA - Smart POS & Botanical Retail Management",
+  "description": "Sistem POS modern, manajemen inventaris real-time, integrasi printer kasir thermal, pembayaran digital QRIS & e-wallet, analitik bulanan, dan katalog seduhan teh telang & rosella.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
